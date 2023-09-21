@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+.ul_class{
+  display: flex;
+  list-style-type: none;
+  text-align: center;
+  text-decoration: none;
+}
+.li_class{
+  
+  padding: 2px;
+}
+.link{
+  text-decoration: none;
+}
